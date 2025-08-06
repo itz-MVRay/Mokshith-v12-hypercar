@@ -65,6 +65,11 @@ A bespoke endurance-ready hypercar powered by a twin-turbocharged V12, optimized
 
 ---
 
-## 🚀 Status
 
-> 🔧 In concept phase — ready for simulation, styling, and virtual testing.
+
+## 📌 Concept Status
+
+- Phase: Early Design  
+- This is a placeholder project shared for inspiration and documentation purposes  
+- Not under active development at this time
+
