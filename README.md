@@ -14,9 +14,19 @@ A bespoke endurance-ready hypercar powered by a twin-turbocharged V12, optimized
 - **Redline**: **8,800 rpm**
 - **Crankshaft**: Flat-plane, ultra-light steel
 - **Cooling**: Dual intercoolers + active water cooling
-
+- **Exhaust:** Straight-pipe titanium with race-grade backpressure tuning
 ---
 
+## 🛠️ Track-Optimized Engineering
+
+- Carbon fiber monocoque with integrated roll cage  
+- Pushrod suspension with manual rebound tuning  
+- Adjustable front splitter, rear wing, and underbody diffuser  
+- Racing slick-compatible forged alloy wheels (20"/21")  
+- Carbon-ceramic brakes with track-compound pads  
+- Lightweight racing seats with HANS-compatible harness mounts 
+
+---
 ## ⚙️ Transmission & Drivetrain
 
 - **Type**: 9-speed multi-clutch sequential (Jesko-inspired)
@@ -64,12 +74,29 @@ A bespoke endurance-ready hypercar powered by a twin-turbocharged V12, optimized
 - Endurance cockpit ergonomics
 
 ---
+## 🧠 Track Technology Features
 
+- Digital dashboard with RPM, speed, tire pressure, and lap timing  
+- Basic telemetry-style display for real-time performance feedback  
+- Traction control toggle with track-ready calibration  
+- Manual brake bias adjustment (simulated concept)  
+- G-force meter for cornering visualization  
+- Drive Modes: Track / Enduro / Rain
 
+  ---
+## 🎨 Functional Track Styling
 
+- Ventilated hood and fender ducts for brake cooling  
+- Matte carbon body panels with exposed weave options  
+- Removable tow hooks and fire suppression access ports  
+- Quick-release panels for pit access  
+- Helmet-compatible cockpit spacing with HUD overlay  
+
+---
 ## 📌 Concept Status
 
-- Phase: Early Design  
-- This is a placeholder project shared for inspiration and documentation purposes  
-- Not under active development at this time
+- Phase: Design prototype for educational purposes  
+- Intended as a track-ready concept showcasing engineering theory  
+- Not under development — shared as an exploratory student project
+
 
