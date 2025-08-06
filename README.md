@@ -1,54 +1,70 @@
-# Mokshith-v12-hypercar
-first hypercar build
-# 🏁 Mokshith V12 Hypercar Concept
+# 🏎️ Mokshith V12 Hypercar — RWD Twin-Turbo Beast
 
-## Overview
-A bold engineering vision for a track-dominating endurance hypercar featuring a twin-turbocharged V12 engine. Designed to blend extreme performance with cutting-edge aerodynamics and modern tech.
+A bespoke endurance-ready hypercar powered by a twin-turbocharged V12, optimized for Le Mans-style racing. Built for brutal speed, precision handling, and long-haul reliability.
 
 ---
 
-## 🔧 Specifications
+## 🔧 Engine Specifications
 
-| Category           | Details                                   |
-|--------------------|--------------------------------------------|
-| **Engine**         | 6.5L Twin-Turbo V12                        |
-| **Horsepower**     | 950 hp @ 8,400 rpm                         |
-| **Torque**         | 920 Nm @ 6,200 rpm                         |
-| **Transmission**   | 7-speed Dual-Clutch                       |
-| **Drive Type**     | Rear-Wheel Drive (RWD)                    |
-| **Fuel Type**      | High-Octane Gasoline                      |
-| **Top Speed**      | 390 km/h (242 mph)                        |
-| **0–100 km/h**     | 2.6 seconds                               |
+- **Type**: 60° V12, twin-turbocharged
+- **Displacement**: 6.5L
+- **Fuel**: E85 biofuel compatible
+- **Power Output**: ~1,600 HP @ 8,500 rpm
+- **Torque**: ~1,200 lb-ft
+- **Redline**: **8,800 rpm**
+- **Crankshaft**: Flat-plane, ultra-light steel
+- **Cooling**: Dual intercoolers + active water cooling
 
 ---
 
-## 🛠️ Chassis & Aerodynamics
+## ⚙️ Transmission & Drivetrain
 
-- Carbon fiber monocoque with titanium reinforcements
-- Active aerodynamic components with adaptive rear wing
-- Ground-effect tunnel design for enhanced downforce
-- Adjustable ride height for track/street modes
-
----
-
-## 🧠 Tech Features
-
-- Digital cockpit with HUD and telemetry integration
-- AI-assisted traction and stability control
-- Customizable drive modes (Track / Enduro / Eco)
-- Lightweight regenerative braking system
+- **Type**: 9-speed multi-clutch sequential (Jesko-inspired)
+- **Drive**: Rear-Wheel Drive (RWD)
+- **Differential**: Active rear limited-slip
+- **Launch Control**: Optimized for high-torque RWD launches
 
 ---
 
-## 🎨 Design Philosophy
+## 🧱 Chassis & Suspension
 
-The Mokshith V12 embraces raw power with sculpted aggression. Lines are sharp yet fluid, echoing motorsport heritage while leaning into futuristic minimalism. Interior balances racer pragmatism with high-tech luxury.
+- **Material**: Carbon fiber monocoque + aluminum subframes
+- **Weight Target**: ~1,250 kg (2,755 lbs)
+- **Suspension**: Pushrod adaptive dampers
+- **Brakes**: Carbon-ceramic with active cooling
+- **Wheelbase**: ~2,750 mm
 
 ---
 
-## 📸 Render (Optional)
+## 🌬️ Aerodynamics
 
-If you upload a concept image, add this line to your README:
+- **Front Aero**: Splitter + vortex generators
+- **Rear Aero**: Adaptive wing + dual-channel diffuser
+- **Underbody**: Full ground-effect tunnel
+- **Drag Coefficient**: ~0.27 Cd
+- **Downforce**: ~1,600 kg @ 250 km/h
 
-```markdown
-![Hypercar Concept](hypercar-concept.png)
+---
+
+## 🧪 Performance Targets
+
+| Metric             | Value               |
+|--------------------|---------------------|
+| 0–100 km/h         | ~2.6 sec            |
+| Top Speed          | ~390+ km/h (242+ mph) |
+| Le Mans Lap Target | Competitive with GR010 & Valkyrie |
+
+---
+
+## 🎯 Race-Ready Features
+
+- Dual-mode ECU for E85 and standard fuel
+- Real-time telemetry and predictive lap analytics
+- Liquid-cooled turbo housings
+- Endurance cockpit ergonomics
+
+---
+
+## 🚀 Status
+
+> 🔧 In concept phase — ready for simulation, styling, and virtual testing.
