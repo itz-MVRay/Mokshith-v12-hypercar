@@ -98,5 +98,4 @@ A bespoke endurance-ready hypercar powered by a twin-turbocharged V12, optimized
 - Phase: Design prototype for educational purposes  
 - Intended as a track-ready concept showcasing engineering theory  
 - Not under development — shared as an exploratory student project
-
-
+-Date made-6/8/2025
